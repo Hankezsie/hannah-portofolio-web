@@ -1,0 +1,237 @@
+body{
+    background-color: #F6F6F6;
+
+}
+h1 {
+    color: #8785A2;
+}
+
+header {
+    color: #514d7e;
+    padding-top: 20px;
+    text-align: center;
+    background-color: #FFE2E2;
+    border-radius: 100px;
+}
+
+img {
+    image-resolution: 2622px x 1206px;
+    width: 500px;
+    border-radius: 800px;
+    border: 30px solid #FFC7C7
+}
+
+
+img:hover{
+    transform: scale(.8);
+    transition: all .3s ease-in-out;
+
+}
+
+
+header button{
+    padding: 4px 15px;
+    background-color: #FFC7C7;
+    border: #000000;
+    display: block;
+    margin: auto;
+    color: rgb(189, 163, 132);
+    font-size : 20px;
+    font-style: italic;
+}
+
+header button:hover{
+    background-color: rgb(203, 203, 255);
+    transform: scale(.8);
+    transition: all .3s ease-in-out;
+}
+
+.about {
+    width: 90%;
+    margin: 60px auto;
+    display: flex;
+}
+.left-about img {
+    width: 90%;
+    border-radius: 99%;
+    box-shadow: 3px 3px 3px #8785A2;
+}
+.right-about h2 {
+    color: #d2b3ad;
+}
+.right-about {
+    margin: auto 0;
+}
+
+#products {
+    width: 95%;
+    text-align: center;
+    margin: 40px auto;
+}
+
+#products h2 {
+    color: #FFC7C7;
+}
+
+.cards {
+    border: 2px solid rgb(255, 168, 197);
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card1 {
+    width: 350px;
+    border: 1px dashed rgb(198, 198, 255);
+
+}
+
+.card1 img {
+    border-radius: 0;
+    width: 100%;
+    border: #a199ff;
+}
+
+.card1 h3 {
+    color: aquamarine;
+}
+
+.card1 a button {
+    margin-bottom: 20px;
+    background-color: #ffa4a4;
+    padding: 8px 25px;
+}
+
+.card2 {
+    width: 350px;
+    border: 1px dashed rgb(198, 198, 255);
+
+}
+
+.card2 img {
+    border-radius: 0;
+    width: 100%;
+    border: #a199ff;
+}
+
+.card2 h3 {
+    color: aquamarine;
+}
+
+.card2 a button {
+    margin-bottom: 20px;
+    background-color: #ffa4a4;
+    padding: 8px 25px;
+}
+
+.card3 {
+    width: 350px;
+    border: 1px dashed rgb(198, 198, 255);
+
+}
+
+.card3 img {
+    border-radius: 0;
+    width: 100%;
+    border: #a199ff;
+}
+
+.card3 h3 {
+    color: aquamarine;
+}
+
+.card3 a button {
+    margin-bottom: 20px;
+    background-color: #ffa4a4;
+    padding: 8px 25px;
+}
+
+.card4 {
+    width: 350px;
+    border: 1px dashed rgb(198, 198, 255);
+
+}
+
+.card4 img {
+    border-radius: 0;
+    width: 100%;
+    border: #a199ff;
+}
+
+.card4 h3 {
+    color: aquamarine;
+}
+
+.card4 a button {
+    margin-bottom: 20px;
+    background-color: #ffa4a4;
+    padding: 8px 25px;
+}
+
+.card5 {
+    width: 350px;
+    border: 1px dashed rgb(198, 198, 255);
+
+}
+
+.card5 img {
+    border-radius: 0;
+    width: 100%;
+    border: #a199ff;
+}
+
+.card5 h3 {
+    color: aquamarine;
+}
+
+.card5 a button {
+    margin-bottom: 20px;
+    background-color: #ffa4a4;
+    padding: 8px 25px;
+}
+
+.card6 {
+    width: 350px;
+    border: 1px dashed rgb(198, 198, 255);
+
+}
+
+.card6 img {
+    border-radius: 0;
+    width: 100%;
+    border: #a199ff;
+}
+
+.card6 h3 {
+    color: aquamarine;
+}
+
+.card6 a button {
+    margin-bottom: 20px;
+    background-color: #ffa4a4;
+    padding: 8px 25px;
+}
+
+.card7 {
+    width: 350px;
+    border: 1px dashed rgb(198, 198, 255);
+
+}
+
+.card7 img {
+    border-radius: 0;
+    width: 100%;
+    border: #a199ff;
+}
+
+.card7 h3 {
+    color: aquamarine;
+}
+
+.card7 a button {
+    margin-bottom: 20px;
+    background-color: #ffa4a4;
+    padding: 8px 25px;
+}
+
